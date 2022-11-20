@@ -46,6 +46,7 @@
   </div>
   <div class="col-sm-3"><br>
     <p>Don't have an account? <a href="register.php">Register</a></p>
+    <p>Don't remember? <a href="forgot-password.php">Recovery</a></p>
   </div>
   <button type="submit" class="btn btn-primary col-sm-3">Login</button>
 </form>
